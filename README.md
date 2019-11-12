@@ -5,5 +5,5 @@ This document was created using D3, the JavaScript library for visualizing data 
 
 ### Images from the final app
 
-![localhost_8000_](Images/localhost_8000_)
+![localhost_8000_](Images/localhost_8000_.png)
 
